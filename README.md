@@ -1,1 +1,2 @@
-# MrAwsm99--LGM-Internship-Task-1
+LGM-Internship-Task-1
+Single Responsive webpage
